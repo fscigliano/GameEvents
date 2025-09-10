@@ -1,0 +1,14 @@
+{
+  "name": "com.fscigliano.gameevents",
+  "version": "1.0.0",
+  "displayName": "GameEvents",
+  "description": "GameEvents ScriptableObjects implementation with 2, 1 and no parameters.",
+  "unity": "2021.3",
+  "keywords": ["tool"],
+  "author": {
+    "name": "Franco Scigliano",
+    "email": "franco.scigliano.es@gmail.com",
+    "url": "https://github.com/fscigliano/GameEvents"
+  },
+  "dependencies": {}
+}
