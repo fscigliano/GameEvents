@@ -12,7 +12,7 @@ namespace com.fscigliano.GameEvents
     [CreateAssetMenu(menuName = GameEvent.k_menuName + nameof(GameEvent), fileName = nameof(GameEvent))]
     public class GameEvent : ScriptableObject
     {
-        public const string k_menuName = "VerticalShootEmUp/Events/";
+        public const string k_menuName = "fscigliano/";
             
         [SerializeField] protected bool _debug;
 
